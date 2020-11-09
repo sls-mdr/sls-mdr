@@ -7,4 +7,3 @@
 - 📫 You can reach me on [linkedin.com Silas Mederer](https://www.linkedin.com/in/silas-mederer)
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/sls-mdr/badges/large)
-![linkedin.com](https://platform.linkedin.com/badges/js/profile.js)
