@@ -1,5 +1,3 @@
-![bild](https://github.com/sls-mdr/sls-mdr/blob/main/header-resume.png)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sls-mdr)
 ### Hi there 👋
 - 🔭 My last project was [nf-ds3-capstone-churn-prevention](https://github.com/jb-ds2020/nf-ds3-capstone-churn-prevention)
