@@ -1,11 +1,12 @@
 ![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sls-mdr&show_icons=true&theme=radical&count_private=true)
 
-Contact me here:
+- 🙋🏻‍♀️ Pronouns: he/his
 
-<a href="https://www.linkedin.com/in/silas-mederer"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/silas-mederer" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="silas-mederer" height="30" width="40" /></a>
+  <a href="https://twitter.com/MdrSls" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="terezaif" height="30"  /></a>
 </p>
-
-
 
 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
