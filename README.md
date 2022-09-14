@@ -1,5 +1,3 @@
-![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sls-mdr&show_icons=true&theme=radical&count_private=true)
-
 - 🙋🏻‍♀️ Pronouns: he/his
 
 <h3 align="left">Connect with me:</h3>
