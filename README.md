@@ -1,11 +1,5 @@
 - 🙋🏻‍♀️ Pronouns: he/his
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/silas-mederer" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="silas-mederer" height="30" width="40" /></a>
-  <a href="https://twitter.com/MdrSls" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="terezaif" height="30"  /></a>
-</p>
-
 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
