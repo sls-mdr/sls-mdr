@@ -1,5 +1,3 @@
-- 🙋🏻‍♀️ Pronouns: he/his
-
 **Languages and Tools:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
